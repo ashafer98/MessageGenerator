@@ -1,0 +1,22 @@
+/* styles.css */
+
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: purple;
+}
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+#message {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
